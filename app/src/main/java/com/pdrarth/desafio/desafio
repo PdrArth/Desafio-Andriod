@@ -1,0 +1,35 @@
+Exercício 1 - Criação de Apps
+
+
+
+
+
+Crie um Aplicativo que pede para inserir um número inteiro, quando o usuário clicar no botão após inserir o número exiba uma mensagem em um TextView.
+
+
+
+Se o número digitado for par exiba essa mensagem em um TextView:
+
+O número 2 é Par
+
+
+
+Se o número digitado for ímpar exiba essa mensagem em um TextView:
+
+O número 3 é Ímpar
+
+
+
+Observação: Identificamos se um número é par ou ímpar quando dividimos por 2. Se o resto da divisão for 0, então o número é par. Se o resto da divisão for 1, nesse caso o número é considerado ímpar.
+
+
+
+
+
+ATENÇÃO!​
+
+Fique à vontade para criar o layout da aplicação da forma que você quiser, porém o App precisa ter essas funcionalidades.
+
+Tente fazer sozinho(a) esse exercício, pois só assim você vai conseguir evoluir na área da programação, resolvendo problemas e praticando bastante.
+
+Após terminar o exercício, baixe os arquivos do projeto e veja se fez o exercício corretamente.
